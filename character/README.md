@@ -1,1 +1,3 @@
-episode-page-1.graphql episode-page-1-output.json episode-page-2.graphql episode-page-2-output.json episode-page-3.graphql episode-page-3-output.json episode-page-4.graphql episode-page-4-output.json
+# graphql
+
+## Queries to Get a List of All Characters in rick and morty
